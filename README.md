@@ -1,4 +1,4 @@
-### Hi there 👋
+### just some guy coding for fun
 
 <!--
 **Adesii/Adesii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adesii)](https://github.com/LordDashMe/github-contribution-stats/)
+
+Working in my free time at @Eagle-One-Development on S&box Gamemodes and Experiences
