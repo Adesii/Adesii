@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adesii)](https://github.com/LordDashMe/github-contribution-stats/)
 
-Working in my free time at @Eagle-One-Development on S&box Gamemodes and Experiences
+Working in my free time at [EagleOne](https://github.com/Eagle-One-Development) on S&box Gamemodes and Experiences
