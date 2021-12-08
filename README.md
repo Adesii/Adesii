@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adesii)](https://github.com/LordDashMe/github-contribution-stats/)
+### Stats
+
+<!--![Jonnelafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnelafin&show_icons=true&theme=radical) -->
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adesii&theme=github_dark) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adesii&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adesii&theme=github_dark) 
 
 Working in my free time at [EagleOne](https://github.com/Eagle-One-Development) on S&box Gamemodes and Experiences
